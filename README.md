@@ -1,4 +1,4 @@
-# sequence_C-OOP-
+# sequence_C++-OOP-
 
 Implement the set type which contains integers. Represent the set as a sequence of its
 elements. Implement as methods: inserting an element, removing an element,
